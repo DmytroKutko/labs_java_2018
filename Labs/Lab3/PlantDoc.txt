@@ -1,0 +1,22 @@
+name='Oak', height=1000, type='Tree'
+
+Now height = 1001
+
+You have collected resources from Oak
+
+Oak converts carbon dioxide into oxygen
+
+Info about plant:
+name='Oak', height=1001, type='Tree'
+
+Oak creating new plant 
+
+Oak absorbs water
+
+You transplant Oak
+
+Oak regenerate
+
+Oak absorbs solar energy
+
+Oak evolves
